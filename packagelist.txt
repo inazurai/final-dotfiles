@@ -1,0 +1,74 @@
+NetworkManager Thunar acl acpi acpid adwaita-icon-theme alacritty
+alacritty-terminfo alsa-lib at-spi2-atk at-spi2-core atk attr audiofile
+autoconf automake avahi-libs base-files base-system bash boost
+btrfs-progs bzip2 c-ares ca-certificates cairo celt compton confuse
+coreutils cpio dash dbus dbus-glib dbus-libs dbus-x11 dejavu-fonts-ttf
+desktop-file-utils device-mapper dhcpcd diffutils dmenu dnssec-anchors
+dosfstools dracut e2fsprogs e2fsprogs-libs efibootmgr encodings ethtool
+eudev eudev-libudev exo expat f2fs-tools faad2 feh file findutils
+firefox font-adobe-100dpi font-adobe-75dpi font-adobe-utopia-100dpi
+font-adobe-utopia-75dpi font-adobe-utopia-type1 font-alias font-awesome5
+font-bh-100dpi font-bh-75dpi font-bh-lucidatypewriter-100dpi
+font-bh-lucidatypewriter-75dpi font-bh-ttf font-bh-type1
+font-bitstream-100dpi font-bitstream-75dpi font-bitstream-type1
+font-cursor-misc font-daewoo-misc font-dec-misc font-ibm-type1
+font-isas-misc font-jis-misc font-misc-misc font-mutt-misc font-util
+fontconfig freetype fribidi fuse gawk gdbm gdk-pixbuf giflib git glib
+glibc glibc-locales gmp gnutls graphite grep grub grub-x86_64-efi gtk+3
+gtk-update-icon-cache gzip hicolor-icon-theme hwids i3-gaps i3blocks
+i3lock i3status iana-etc iceauth icu-libs imlib2 inih iproute2 iptables
+iputils ipw2100-firmware ipw2200-firmware iw jansson jbigkit-libs kbd
+kmod kpartx lame lcms2 less libICE libSM libX11 libXScrnSaver libXau
+libXaw libXcomposite libXcursor libXdamage libXdmcp libXext libXfixes
+libXfont2 libXfontcache libXft libXi libXinerama libXmu libXpm libXrandr
+libXrender libXt libXtst libXv libXvMC libXxf86misc libXxf86vm libaio
+libao libaom libarchive libass libasyncns libavcodec libavfilter
+libavformat libavresample libavutil libblkid libboost_chrono1.72
+libboost_filesystem1.72 libboost_locale1.72 libboost_program_options1.72
+libboost_regex1.72 libboost_system1.72 libboost_thread1.72 libbs2b
+libcap libcap-ng libcap-progs libcddb libcdio libcdio-paranoia libcolord
+libconfig libcrypto1.1 libcups libcurl libdatrie libdav1d4 libdb libdmx
+libdrm libedit libefivar libelf libelogind libepoxy libev libevdev
+libevent libexif libfdisk libffi libfftw libflac libfontenc libgbm libgcc
+libglapi libglvnd libgomp libgudev libgusb libharfbuzz libid3tag libidn2
+libinput libjack libjpeg-turbo libjpeg-turbo-tools libkmod libldap libldns
+libllvm12 libltdl liblz4 liblzma libmad libmagic libmcpp libmikmod
+libmm-glib libmms libmnl libmodplug libmount libmpdclient libmpg123
+libndp libnetfilter_conntrack libnfnetlink libnfs libnftnl libnl3 libnm
+libnotify libogg libpcap libpciaccess libpcre libpcre2 libpng libpostproc
+libpsl libpulseaudio libreadline8 librsvg librtmp libsamplerate libsasl
+libsensors libshout libsmartcols libsndfile libsndio libsodium libsoxr
+libspeex libssh2 libssl1.1 libstdc++ libswresample libswscale libtasn1
+libtdb libthai libtheora libtirpc libtool libunbound libunistring
+libupnp libusb libuuid libuv libva libvdpau libvidstab libvorbis
+libvpx6 libwacom libwebp libxatracker libxbps libxcb libxfce4panel
+libxfce4ui libxfce4util libxkbcommon libxkbcommon-x11 libxkbfile
+libxml2 libxshmfence libzstd linux linux-base linux-firmware-amd
+linux-firmware-broadcom linux-firmware-intel linux-firmware-network
+linux-firmware-nvidia linux5.13 llhttp lzo m4 man-pages mcpp mdocml
+mesa mesa-dri mit-krb5-libs mkfontscale mobile-broadband-provider-info
+mpd mtdev ncmpcpp ncurses ncurses-base ncurses-libs neofetch nettle
+newt nghttp2 nodejs nspr nss nvi ocl-icd oclock oniguruma openresolv
+openssh openssl opus orc os-prober p11-kit pam pam-base pam-libs
+pango pciutils perl perl-AnyEvent perl-AnyEvent-I3 perl-Authen-SASL
+perl-Canary-Stability perl-Convert-BinHex perl-Digest-HMAC
+perl-IO-Socket-SSL perl-IO-stringy perl-JSON-XS perl-MIME-tools
+perl-MailTools perl-Net-SMTP-SSL perl-Net-SSLeay perl-TimeDate
+perl-Types-Serialiser perl-URI perl-common-sense picom pixman popt
+procps-ng removed-packages rofi run-parts runit runit-void scrot sed
+sessreg setxkbmap shadow shared-mime-info slang smproxy speexdsp sqlite
+startup-notification sudo taglib tar tiff traceroute transset twolame
+tzdata usbutils util-linux util-linux-common vim vim-common void-artwork
+vulkan-loader wayland which wifi-firmware wpa_supplicant x11perf x264
+x265 xauth xbacklight xbps xbps-triggers xcalc xcb-util xcb-util-cursor
+xcb-util-image xcb-util-keysyms xcb-util-renderutil xcb-util-wm
+xcb-util-xrm xclipboard xclock xcmsdb xconsole xcursorgen xdpyinfo
+xev xeyes xf86-input-evdev xf86-input-libinput xf86-input-synaptics
+xf86-input-vmmouse xf86-input-wacom xf86-video-amdgpu xf86-video-ati
+xf86-video-dummy xf86-video-fbdev xf86-video-intel xf86-video-nouveau
+xf86-video-vesa xf86-video-vmware xfconf xfontsel xfsprogs xgamma
+xhost xinit xinput xkbcomp xkbevd xkbutils xkeyboard-config xkill xload
+xlogo xlsatoms xlsclients xmessage xmodmap xorg xorg-apps xorg-fonts
+xorg-input-drivers xorg-server xorg-server-common xorg-video-drivers xpr
+xprop xrandr xrdb xrefresh xset xsetroot xvidcore xvinfo xwd xwininfo
+xwud xxd yajl zd1211-firmware zlib zziplib
