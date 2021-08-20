@@ -1,4 +1,4 @@
-NetworkManager Thunar acl acpi acpid adwaita-icon-theme alacritty
+NetworkManager font-iosevka Thunar acl acpi acpid adwaita-icon-theme alacritty
 alacritty-terminfo alsa-lib at-spi2-atk at-spi2-core atk attr audiofile
 autoconf automake avahi-libs base-files base-system bash boost
 btrfs-progs bzip2 c-ares ca-certificates cairo celt compton confuse
